@@ -3,7 +3,9 @@
 
 📍 I'm from Long Island New York
 
-🎓 I attend Hofstra University and will be graduating with a Masters Of Science in Computer Science in May 2025
+🎓 I attend Hofstra University
+
+💬 I have graduated with a B.A. in Computer Science and will graduate with a Master's of Science in May 2025
 
 🌱 I’m currently learning about Web Development
 

@@ -1,7 +1,7 @@
 ## Hi there 👋
 🚶🏽‍♂️ My name is Dylan Stewart
 
-📍 I'm from NYC
+📍 I'm from Long Island New York
 
 🎓 I attend Hofstra University and will be graduating with a Masters Of Science in Computer Science in December 2025
 

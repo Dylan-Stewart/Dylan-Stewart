@@ -13,8 +13,6 @@
 
 📫 Feel free to contact me at dylankstewart@gmail.com
 
-⚡ Fun fact: The first computer covered 1,800 square feet.
-
 <!--
 **Dylan-Stewart/Dylan-Stewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

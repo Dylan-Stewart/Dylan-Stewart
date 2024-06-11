@@ -1,4 +1,4 @@
-## Hi, there 👋
+## Hi there! 👋
 🚶🏽‍♂️ My name is Dylan Stewart
 
 📍 I'm from Long Island New York

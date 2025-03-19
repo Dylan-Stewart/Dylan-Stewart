@@ -5,7 +5,7 @@
 
 🎓 I attend Hofstra University
 
-💬 I have graduated with a B.A. in Computer Science and will graduate with a Master's of Science in May 2025
+💬 I have graduated with a B.A. in Computer Science and will graduate with a Master of Science in May 2025
 
 🌱 I’m currently learning about Web Development
 
